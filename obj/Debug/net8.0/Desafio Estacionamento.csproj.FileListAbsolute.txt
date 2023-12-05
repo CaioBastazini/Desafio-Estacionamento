@@ -1,0 +1,14 @@
+C:\Users\basta\OneDrive\Área de Trabalho\DotNet Prog\Desafio Estacionamento\bin\Debug\net8.0\Desafio Estacionamento.exe
+C:\Users\basta\OneDrive\Área de Trabalho\DotNet Prog\Desafio Estacionamento\bin\Debug\net8.0\Desafio Estacionamento.deps.json
+C:\Users\basta\OneDrive\Área de Trabalho\DotNet Prog\Desafio Estacionamento\bin\Debug\net8.0\Desafio Estacionamento.runtimeconfig.json
+C:\Users\basta\OneDrive\Área de Trabalho\DotNet Prog\Desafio Estacionamento\bin\Debug\net8.0\Desafio Estacionamento.dll
+C:\Users\basta\OneDrive\Área de Trabalho\DotNet Prog\Desafio Estacionamento\bin\Debug\net8.0\Desafio Estacionamento.pdb
+C:\Users\basta\OneDrive\Área de Trabalho\DotNet Prog\Desafio Estacionamento\obj\Debug\net8.0\Desafio Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basta\OneDrive\Área de Trabalho\DotNet Prog\Desafio Estacionamento\obj\Debug\net8.0\Desafio Estacionamento.AssemblyInfoInputs.cache
+C:\Users\basta\OneDrive\Área de Trabalho\DotNet Prog\Desafio Estacionamento\obj\Debug\net8.0\Desafio Estacionamento.AssemblyInfo.cs
+C:\Users\basta\OneDrive\Área de Trabalho\DotNet Prog\Desafio Estacionamento\obj\Debug\net8.0\Desafio Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\basta\OneDrive\Área de Trabalho\DotNet Prog\Desafio Estacionamento\obj\Debug\net8.0\Desafio Estacionamento.dll
+C:\Users\basta\OneDrive\Área de Trabalho\DotNet Prog\Desafio Estacionamento\obj\Debug\net8.0\refint\Desafio Estacionamento.dll
+C:\Users\basta\OneDrive\Área de Trabalho\DotNet Prog\Desafio Estacionamento\obj\Debug\net8.0\Desafio Estacionamento.pdb
+C:\Users\basta\OneDrive\Área de Trabalho\DotNet Prog\Desafio Estacionamento\obj\Debug\net8.0\Desafio Estacionamento.genruntimeconfig.cache
+C:\Users\basta\OneDrive\Área de Trabalho\DotNet Prog\Desafio Estacionamento\obj\Debug\net8.0\ref\Desafio Estacionamento.dll
